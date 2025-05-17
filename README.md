@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Judith Osewe
 
-<!--
-**JudithOsewe/JudithOsewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about transforming raw data into actionable insights. I use tools like **SQL**, **Python (pandas, seaborn)**, **Google BigQuery**, **Power BI**, and **Metabase** to build dashboards, optimize decision-making, and drive meaningful business outcomes.
 
-Here are some ideas to get you started:
+🔧 Tools & Skills:
+- SQL, PostgreSQL, Google BigQuery  
+- Power BI, Tableau, Metabase  
+- Python (pandas, matplotlib, seaborn)  
+- Excel (VLOOKUP, Pivot Tables)  
+- Data storytelling, KPI tracking, dashboard automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+
+
+📚 Certifications:
+- Google Data Analytics Professional Certificate  
+- IBM Data Analyst Certificate  
+- SQL for Data Science – UC Davis  
+
+🔗 Let’s connect on LinkedIn www.linkedin.com/in/judithosewe or explore my [portfolio](https://github.com/JudithOsewe).
